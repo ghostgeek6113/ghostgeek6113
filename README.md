@@ -57,3 +57,5 @@ I am a computer science engineer and have experience in working in startups as b
 ![Twitter Follow](https://img.shields.io/twitter/follow/jacobki04299329?style=social)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jacob-kingi-664948167/)
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) jacobkingzklbz5115@gmail.com
